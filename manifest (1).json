@@ -1,0 +1,12 @@
+{
+  "background_color": "#dbe8f6",
+  "description": "Safety + Next Action",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SafeNex",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SaNex",
+  "start_url": "/",
+  "theme_color": "#1a95d8"
+}
