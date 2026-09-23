@@ -1,0 +1,22 @@
+{
+  "name": "LifeGuard Production",
+  "short_name": "LifeGuard",
+  "description": "Production Product Hazard, Cyber Defense, and Disposal Engine",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/0284c7/ffffff?text=Guard",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/0284c7/ffffff?text=Guard",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
